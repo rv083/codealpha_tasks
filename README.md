@@ -42,11 +42,8 @@ The Number Guessing Game is a console-based game where the player tries to guess
     ```bash
     git clone https://github.com/rv083/number-guessing-game.git
     ```
-    <br>
-2. Navigate to the project directory:
-    ```bash
-    cd number-guessing-game
-    ```
+  
+
     <br>
 3. Compile the program:
     ```bash
