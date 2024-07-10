@@ -1,4 +1,4 @@
-# codealpha_tasks
+# codealpha_task 1
 # Number Guessing Game
 
 <hr>
